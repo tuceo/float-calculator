@@ -12,7 +12,10 @@
   },
   "keywords": [
     "float",
-    "calculator"
+    "calculator",
+    "floating error",
+    "number precision",
+    "rounding error"
   ],
   "author": "Tugce Ozgen",
   "license": "ISC",
