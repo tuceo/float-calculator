@@ -2,6 +2,7 @@
 
 <p>
   Perform addition, subtraction, multiplication and division operations for floating point numbers.
+  https://www.npmjs.com/package/float-calculator
 </p>
 
 <h2>Documentation</h2>
